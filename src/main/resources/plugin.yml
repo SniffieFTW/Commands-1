@@ -1,0 +1,6 @@
+name: Test
+version: ${project.version}
+main: me.sniffieftw.p1.test.Test
+api-version: 1.16
+commands:
+  test:
