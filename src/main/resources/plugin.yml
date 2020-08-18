@@ -4,3 +4,23 @@ main: me.sniffieftw.p1.test.Test
 api-version: 1.16
 commands:
   test:
+    usage: "/test"
+    description: "tester"
+  spam:
+    usage: "/spam"
+    description: "spam"
+  craft:
+    usage: "/craft"
+    description: "craft"
+  fly:
+    usage: "/fly"
+    description: "fly"
+  heals:
+    usage: "/heals"
+    description: "heals you"
+  dog:
+    usage: "/dog"
+    description: "helps you with commands"
+  kit:
+    usage: "/kit"
+    description: "gives u a kit"
